@@ -1,5 +1,6 @@
+# 1주차 강의 내용
 
-# React 기초 요약
+## React 기초 요약
 
 ## 📦 npm vs npx
 
